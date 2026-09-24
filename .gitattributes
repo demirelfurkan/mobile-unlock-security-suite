@@ -1,0 +1,6 @@
+vendor/* linguist-vendored
+package-lock.json linguist-generated
+*.htm linguist-vendored
+
+app/**/*.tsx linguist-detectable
+# eof 364b22c0
